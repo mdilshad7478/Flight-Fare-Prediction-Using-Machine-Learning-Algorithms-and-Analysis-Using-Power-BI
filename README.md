@@ -34,7 +34,9 @@ Random Forest Regressor is the best model exhibiting low values for MAE, RMSE, M
 ## Power BI Dashboard and Analysis
 
 In addition to model building, a dynamic Power BI dashboard was developed to conduct in-depth analysis of the flight dataset.
-![Alt text]()
+
+Snap of Power BI dashboard:
+![Alt Snap of Power BI dashboard:](https://github.com/mdilshad7478/Flight-Fare-Prediction-Using-Machine-Learning-Algorithms-and-Analysis-Using-Power-BI/blob/008ea76dada8f8675fa94667d2b29081eb8fb9db/Power%20BI%20dashboard%20snap.jpg)
 :
 
 
